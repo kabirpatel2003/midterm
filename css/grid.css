@@ -39,9 +39,3 @@ footer {
 .box3 {
   grid-row: 1/3;
 }
-
-.box4 {
-  grid-column: 4;
-  grid-row: 2;
-  height: 600px;
-}
